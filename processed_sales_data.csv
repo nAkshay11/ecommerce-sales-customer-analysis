@@ -1,0 +1,11 @@
+order_id,customer_name,city,product,category,quantity,price,payment_method,order_date,total_sales
+1,Akshay,Chennai,Laptop,Electronics,1,55000,UPI,05-01-2025,55000
+2,Rahul,Bangalore,Shoes,Fashion,2,3000,Card,07-01-2025,6000
+3,Priya,Hyderabad,Mobile,Electronics,1,25000,Cash,10-01-2025,25000
+4,Arun,Chennai,Watch,Accessories,1,5000,UPI,12-01-2025,5000
+5,Sneha,Mumbai,Tablet,Electronics,1,18000,Card,15-01-2025,18000
+6,Kiran,Bangalore,T-Shirt,Fashion,3,2000,Cash,18-01-2025,6000
+7,Divya,Delhi,Headphones,Electronics,2,4000,UPI,20-01-2025,8000
+8,Sanjay,Chennai,Shoes,Fashion,1,2500,Card,22-01-2025,2500
+9,Meena,Hyderabad,Laptop,Electronics,1,60000,UPI,25-01-2025,60000
+10,Ajay,Mumbai,Smart Watch,Accessories,1,7000,Cash,28-01-2025,7000
